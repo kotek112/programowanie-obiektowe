@@ -62,8 +62,6 @@ namespace ConsoleApp1
             while (!correct);
             
             
-
-
             Console.ReadKey();
         }
     }

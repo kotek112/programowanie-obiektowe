@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\bin\Debug\kartkowka_1.exe.config
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\bin\Debug\kartkowka_1.exe
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\bin\Debug\kartkowka_1.pdb
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\obj\Debug\kartkowka_1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\obj\Debug\kartkowka_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\obj\Debug\kartkowka_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\obj\Debug\kartkowka_1.exe
+C:\Users\student\Desktop\kartkowka_1\kartkowka_1\obj\Debug\kartkowka_1.pdb

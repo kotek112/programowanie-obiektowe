@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\listy\bin\Debug\listy.exe.config
+C:\Users\student\Desktop\listy\bin\Debug\listy.exe
+C:\Users\student\Desktop\listy\bin\Debug\listy.pdb
+C:\Users\student\Desktop\listy\obj\Debug\listy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\listy\obj\Debug\listy.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\listy\obj\Debug\listy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\listy\obj\Debug\listy.exe
+C:\Users\student\Desktop\listy\obj\Debug\listy.pdb
